@@ -58,10 +58,10 @@ curl -i "http://localhost:3000/api/video?postUrl=https://www.instagram.com/p/xxx
   "status":"success",
   "data":
     {
-      "filename":"ig-downloader-1712666263.mp4",
-      "width":"640",
-      "height":"640",
-      "videoUrl":"https://scontent.cdninstagram.com/o1/v/t16/f1/m84/E84E5DFC48EA8...etc"
+      "filename":"native-ig-1712666263.mp4",
+      "width":"800",
+      "height":"800",
+      "videoUrl":"https://scontent.cdninstagram.com/o1/v/t16/f1/m84/E49KNCDCS;...etc"
     }
 }
 ```
