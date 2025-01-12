@@ -27,15 +27,12 @@ export function Navbar() {
             <Link href="/" className="hover:underline">
               Home
             </Link>
-            <Link href="/api-docs" className="hover:underline">
-              API Docs
-            </Link>
             <Link
               target="_blank"
               href="https://t.me/MrPietro"
               className="hover:underline"
             >
-              Creator
+            ⚡ Developer
             </Link>
           </div>
           <ThemeToggle />
@@ -62,9 +59,6 @@ export function Footer() {
           <span aria-hidden="true" className="mx-2 select-none">
             |
           </span>
-          <Link href="/api-docs" className="hover:underline">
-            API Docs
-          </Link>
         </div>
       </div>
     </footer>
