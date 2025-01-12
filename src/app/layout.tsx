@@ -16,7 +16,7 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Native IG - Instagram Video Downloader",
+  title: "ReelsLoader - Instagram Video Downloader",
   description: "Download Instagram Videos",
 };
 
