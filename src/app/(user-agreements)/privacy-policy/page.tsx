@@ -10,7 +10,7 @@ const PrivacyPolicyPage = () => {
           (Policy) informs users that the website
           <span className="text-gray-900 dark:text-gray-500">
             {" "}
-            (https://nativeig.vercel.app)
+            (https://ReelsLoader.vercel.app)
           </span>{" "}
           does not collect, store, or process any personal information. By using
           the Website or Service, you acknowledge that no personal information
@@ -97,7 +97,7 @@ const PrivacyPolicyPage = () => {
         <p className="mb-2">
           <span className="font-semibold">5.1.</span> If you have any questions
           or concerns about this Policy, please contact the Website owner at{" "}
-          <span className="italic">h3dev.pira@gmail.com</span>.
+          <span className="italic">MrPietroCloud@gmail.com</span>.
         </p>
       </section>
 
