@@ -32,7 +32,7 @@ export function MobileNav({ className }: { className?: string }) {
       </SheetTrigger>
       <SheetContent side="left">
         <h2 className="mb-4 text-center text-lg font-semibold">
-          Native IG
+          ReelsLoader
         </h2>
         <ul className="mb-8 space-y-3">
           {siteLinks.map((link) => (
