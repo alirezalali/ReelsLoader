@@ -19,7 +19,7 @@ export function Navbar() {
         )}
       >
         <div className="hidden select-none text-xl font-extrabold uppercase md:block">
-          Native IG
+          ReelsLoader
         </div>
         <MobileNav className="md:hidden" />
         <div className="ml-auto flex items-center gap-4">
@@ -32,7 +32,7 @@ export function Navbar() {
             </Link>
             <Link
               target="_blank"
-              href="https://t.me/h3dev"
+              href="https://t.me/MrPietro"
               className="hover:underline"
             >
               Creator
