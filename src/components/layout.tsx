@@ -32,7 +32,7 @@ export function Navbar() {
               href="https://t.me/MrPietro"
               className="hover:underline"
             >
-            ⚡ Developer
+              Developer
             </Link>
           </div>
           <ThemeToggle />
@@ -57,7 +57,7 @@ export function Footer() {
             Privacy Policy
           </Link>
           <span aria-hidden="true" className="mx-2 select-none">
-            |
+            |Made iran❤️
           </span>
         </div>
       </div>
