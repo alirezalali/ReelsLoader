@@ -54,7 +54,7 @@ export function MobileNav({ className }: { className?: string }) {
         </ul>
         <Separator className="my-4" />
         <h2 className="mb-4 text-center text-lg font-semibold">
-          External Links
+          Contact
         </h2>
         <ul className="space-y-3">
           {externalLinks.map((link) => (
