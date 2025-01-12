@@ -8,7 +8,7 @@ const ApiDocsPage = () => {
                 <p className="mb-2">
                     <span className="font-semibold">URL:</span>
                     <code className="ml-2 text-gray-900 dark:text-gray-500">
-                        https://nativeig.vercel.app/api/video
+                        https://reelaloader.vercel.app/api/video
                     </code>
                 </p>
                 <p className="mb-2">
@@ -25,7 +25,7 @@ const ApiDocsPage = () => {
                 <h2 className="mb-2 text-xl font-semibold">2. Example Request</h2>
                 <div className="mb-2 p-4 bg-gray-100 rounded-md">
                     <code className="block text-gray-800">
-                        https://nativeig.vercel.app/api/video?postUrl=https://www.instagram.com/p/CX1234567/
+                        https://reelsloader.vercel.app/api/video?postUrl=https://www.instagram.com/p/CX1234567/
                     </code>
                 </div>
             </section>
@@ -52,7 +52,7 @@ const ApiDocsPage = () => {
                             {`{
   "status": "success",
   "data": {
-    "filename": "native-ig-1734345296.mp4",
+    "filename": "ReelsLoader-1734345296.mp4",
     "width": "640",
     "height": "1136",
     "videoUrl": "https://scontent-iad3-2.cdninstagram.com/..."
