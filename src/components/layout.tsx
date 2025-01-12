@@ -57,8 +57,11 @@ export function Footer() {
             Privacy Policy
           </Link>
           <span aria-hidden="true" className="mx-2 select-none">
-            |Made iran❤️
+            |
           </span>
+          <Link href="https://t.me/LygonStreet" className="hover:underline">
+            Contact
+          </Link>
         </div>
       </div>
     </footer>
