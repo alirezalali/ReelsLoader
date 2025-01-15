@@ -16,15 +16,12 @@ export const siteLinks: NavLink[] = [
     name: "Privacy Policy",
     href: "/privacy-policy",
   },
-  {
-    name: "API Docs",
-    href: "/api-docs"
-  },
+
 ];
 
 export const externalLinks: NavLink[] = [
   {
-    name: "Creator",
-    href: "https://t.me/h3dev/",
+    name: "⚡Developer",
+    href: "https://t.me/MrPietro/",
   },
 ];
