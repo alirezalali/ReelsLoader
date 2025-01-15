@@ -21,11 +21,7 @@ export const siteLinks: NavLink[] = [
 
 export const Contact: NavLink[] = [
   {
-    name: "⚡Developer",
+    name: "⚡ Developer",
     href: "https://t.me/MrPietro/",
-  },
-  {
-    name: "⚡Channel",
-    href: "https://t.me/LygonStreet/",
   },
 ];
